@@ -5,3 +5,6 @@
 .Rproj
 *.csv
 *.Rproj
+.DS_Store
+.ipynb_checkpoints
+.vscode/settings.json
